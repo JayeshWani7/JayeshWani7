@@ -1,3 +1,20 @@
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://shivamm-55.com">Jayesh Wani</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Jayesh+Wani">「 Google Me 」</a>
+    <br>
+    「 I am a full stack web application developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
 ## 💫 About Me:
 🔭 I’m currently working on React based websites<br>👯 I’m looking to collaborate on React and Blockchain Projects<br>🌱 I’m currently learning Blockchain Development<br>💬 Ask me about Data Structures and Algorithms<br>
 

@@ -1,7 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=JayeshWani7">
-  <img align="right" src="![](https://komarev.com/ghpvc/?username=JayeshWani7)" alt="Profile visitor" />
-</a>
-
+[![](https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- -->
 [![wakatime](https://wakatime.com/badge/user/018ddbb1-982e-4cb5-a4fc-484eeb4fda6f.svg)](https://wakatime.com/@018ddbb1-982e-4cb5-a4fc-484eeb4fda6f) 
 <h3 align="center">
@@ -48,4 +45,4 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0)](https://visitcount.itsvg.in)
+

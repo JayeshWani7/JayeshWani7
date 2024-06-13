@@ -1,4 +1,4 @@
-💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on React based websites<br>👯 I’m looking to collaborate on React and Blockchain Projects<br>🌱 I’m currently learning Blockchain Development<br>💬 Ask me about Data Structures and Algorithms<br>
 
 

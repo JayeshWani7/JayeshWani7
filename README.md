@@ -2,10 +2,9 @@
   <img align="right" src="https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0" alt="Profile visitor" />
 </a>
 <!-- -->
-[![wakatime](https://wakatime.com/badge/user/018ddbb1-982e-4cb5-a4fc-484eeb4fda6f.svg)](https://wakatime.com/@018ddbb1-982e-4cb5-a4fc-484eeb4fda6f) 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shivamm-55.com">Jayesh Wani</a></b>
+                <b><a target="_blank" href="https://JayeahWani.com">Jayesh Wani</a></b>
         </samp>
 </h3>
 

@@ -1,5 +1,5 @@
 <a href="https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0" alt="Profile visitor" />
+  <img align="left" src="https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0" alt="Profile visitor" />
 </a>
 <!-- -->
 <h3 align="center">

@@ -20,7 +20,7 @@
 </p>
 
 ## 💫 About Me:
-🔭 I’m currently working on React based websites<br>👯 I’m looking to collaborate on React and Blockchain Projects<br>🌱 I’m currently learning Blockchain Development<br>💬 Ask me about Data Structures and Algorithms<br>
+🔭 I’m currently working on React based websites<br>🌱 I’m currently learning Spring Framework<br>👯 I’m looking to collaborate on React and Spring Boot Projects<br>💬 Ask me anything <a href="www.linedin.com/in/jayesh-wani">here</a><br>
 
 
 ## 🌐 Socials:

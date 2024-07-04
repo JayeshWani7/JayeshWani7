@@ -4,7 +4,7 @@
 <!-- -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://jayeahwani.tech">Jayesh Wani</a></b>
+                <b><a target="_blank" href="https://jayeshwani.tech">Jayesh Wani</a></b>
         </samp>
 </h3>
 
@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Jayesh+Wani">「 Google Me 」</a>
     <br>
-    「 I am a Web Developer from <b>India</b> 」
+    「 I am a Full Stack Developer from <b>India</b> 」
     <br>
     <br>
   </samp>

@@ -17,10 +17,6 @@
   </samp>
 </p>
 
-## 💫 About Me:
-🔭 I’m currently working on React based websites<br>🌱 I’m currently learning Spring Framework<br>👯 I’m looking to collaborate on React and Spring Boot Projects<br>💬 Ask me anything <a href="https://www.linkedin.com/in/jayesh-wani">here</a><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-wani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20055255/jayesh-wani) 
 
@@ -31,12 +27,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayeshWani7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshWani7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JayeshWani7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 <a href="https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0">
   <img align="left" src="https://visitcount.itsvg.in/api?id=JayeshWani7&icon=0&color=0" alt="Profile visitor" />
 </a>
----
+
 

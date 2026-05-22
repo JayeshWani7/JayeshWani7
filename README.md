@@ -29,7 +29,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshWani7&theme=radical&hide_border=true" alt="github streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JayeshWani7&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 

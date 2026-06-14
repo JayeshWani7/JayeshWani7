@@ -12,7 +12,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Jayesh+Wani">「 Google Me 」</a>
     <br>
     「 I am a Full Stack Developer from <b>India</b> 」
     <br>
